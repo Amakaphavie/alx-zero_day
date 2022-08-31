@@ -1,1 +1,1 @@
-my firzt readme
+my first readme
